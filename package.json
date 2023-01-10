@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "prismjs": "^1.29.0"
+  }
+}
